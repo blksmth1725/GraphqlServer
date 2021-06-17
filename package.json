@@ -2,7 +2,7 @@
   "name": "graphqlserver",
   "version": "1.0.0",
   "description": "Graohql Server Implementation",
-  "main": "server,js",
+  "main": "server.js",
   "scripts": {
     "devStart": "nodemon server.js"
   },
